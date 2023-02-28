@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://nobles-classics.github.io/wp-sitemap.xml
+Sitemap: https://noblesclassics.com/wp-sitemap.xml
